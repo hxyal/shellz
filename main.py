@@ -5,7 +5,7 @@ TOKEN = 'MTMzMDQ5OTUwMDUyMjg2ODczNg.G_ks9h.0nPg5x9q4v4vzsrWe-9LKz1yUJAJhUGjeT-5J
 
 USER_ID = 635103657934716929 
 
-ROLE_NAME = "olabilir herşey"
+ROLE_NAME = "olabilir hersey"
 
 intents = discord.Intents.default()
 intents.members = True  
